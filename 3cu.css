@@ -1,0 +1,128 @@
+  body{
+      margin: 0%;
+      padding: 0%
+  }
+  .header{
+      background: rgb(108, 224, 30);
+    
+      position: relative;
+      bottom: 18px
+
+  }
+  .yazi{
+      position: relative;
+      left: 360px;
+      line-height: 3;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
+      color: rgba(85, 77, 77, 0.678)
+  }
+  .setr{
+      position: relative;
+      bottom: 30px;
+      left: 360px
+  }
+.ret{
+    padding: 7px;
+    position: relative;
+    left: 360px;
+    bottom: 35px;
+    color: rgba(85, 77, 77, 0.678)
+    
+}
+.clear{
+    clear: both;
+}
+.nov{
+    position: relative;
+    left: 360px;
+}
+
+.second{
+font-size: 20px;
+position: relative;
+left: 800px;
+bottom: 50px
+}
+.altsetr{
+    font-size: 14px;
+    position: relative;
+    left: 360px;
+    bottom: 34px
+}
+.cc{
+width: 200px;
+height:300px;
+position: relative;
+left: 350px;
+
+}
+.olcusu{
+   
+    position: relative;
+    bottom: 180px;
+    left:
+    390px
+
+}
+.yyy{
+    width: 200px;
+height:300px;
+position: relative;
+left: 650px;
+bottom: 487px
+
+}
+.uuu{
+    position: relative;
+    bottom: 637px;
+    left:
+    698px
+
+}
+.llm{
+    width: 200px;
+    height:300px;
+    position: relative;
+    left: 950px;
+    bottom: 896px
+}
+.awa{
+    position: relative;
+    bottom: 1060px;
+    left:
+    1000px
+
+}
+.mm{
+    position: relative ;
+    left:350px;
+    
+   
+
+
+}
+.alt-yazisi{
+    position: relative;
+    left: 350px;
+}
+.rrrt{position: relative;
+    left: 
+        620px;
+        bottom:467px
+
+    
+}
+.fer{
+    position: relative
+    ;
+    left: 900;
+    bottom: 880px
+}
+.hhhkkk{ position: relative;
+    left: 900px;
+    bottom: 880px;
+}
+
+
+
+    
